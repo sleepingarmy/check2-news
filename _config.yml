@@ -1,0 +1,14 @@
+title: CHEK2 Daily News
+description: Daily digest of research, clinical news, and database updates on the CHEK2 gene mutation
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+exclude:
+  - scripts/
+  - tests/
+  - ".seen.json"
+  - README.md
+  - requirements.txt
+  - .github/
+  - .hermes/
