@@ -3,12 +3,6 @@ layout: default
 title: CHEK2 Daily News
 ---
 
-# CHEK2 Daily News
-
-Automated daily digest of research, clinical news, and database updates on the **CHEK2** gene (checkpoint kinase 2, 22q12.1) and its pathogenic variants.
-
----
-
 <!--LATEST_REPORT-->
 # CHEK2 Daily Report — 2026-08-25
 
@@ -27,10 +21,12 @@ One new publication appeared in PubMed yesterday: a large-scale bioinformatics s
 
 **Why it matters for CHEK2 carriers:** This study does **not** change the established baseline risk estimates for germline CHEK2 carriers (truncating variants: ~2.66× breast cancer OR, 20–30% lifetime breast risk; I157T/S428F low-penetrance OR ~1.3; ~2× prostate risk). The findings pertain to somatic CHIP-derived CHEK2 mutations detected in blood as prognostic biomarkers in cancer patients, which is a separate biological and clinical context from hereditary CHEK2-related cancer predisposition.
 
-Link: https://pubmed.ncbi.nlm.nih.gov/42635246/
-<!--END_LATEST_REPORT-->
+Link: [https://pubmed.ncbi.nlm.nih.gov/42635246/](https://pubmed.ncbi.nlm.nih.gov/42635246/)
 
 ---
+
+**Sources checked with no new items:** bioRxiv/medRxiv (0 CHEK2 preprints in window), ClinicalTrials.gov (0 studies updated in last 7 days), web news (no qualifying items from Aug 24–25; the JCHR p.I157T/ovarian cancer article was excluded as a likely predatory-journal publication with implausible mutation frequencies). No database/classification section today (Tuesday — Monday-only check).
+<!--END_LATEST_REPORT-->
 
 ## Report Archive
 
@@ -40,5 +36,3 @@ Link: https://pubmed.ncbi.nlm.nih.gov/42635246/
   <li><a href="{{ p.url | relative_url }}">{{ p.name | remove: ".md" }}</a></li>
 {% endfor %}
 </ul>
-
-<small>Sources: PubMed, bioRxiv/medRxiv, ClinicalTrials.gov, curated web news. Reference baseline: truncating CHEK2 variants ~2–2.7× breast cancer OR; I157T/S428F low-penetrance (OR ~1.3); CHEK2 does not cause Li-Fraumeni syndrome. Not medical advice.</small>
