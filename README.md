@@ -2,7 +2,9 @@
 
 Automated daily digest of research, clinical news, and database updates related to the **CHEK2** gene (checkpoint kinase 2, 22q12.1) and its pathogenic variants.
 
-Reports are generated daily at 07:00 by an automated agent job, committed here, and pushed to this repo.
+**Live site: https://sleepingarmy.github.io/check2-news/** — the homepage always shows the most recent report, with an archive of past reports below.
+
+Reports are generated daily at 07:00 by an automated agent job, committed here, and published to the site on push.
 
 ## Report format
 
