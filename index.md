@@ -4,18 +4,15 @@ title: CHEK2 Daily News
 ---
 
 <!--LATEST_REPORT-->
-# CHEK2 Daily Report — 2026-10-08
+# CHEK2 Daily Report — 2026-10-15
 
 ## TL;DR
-A Colombian retrospective cohort (BMC Cancer) reports 10-year survival estimates for 259 breast cancer patients carrying germline pathogenic variants — CHEK2 carriers were in the better-survival group, though the authors stress the CHEK2 numbers are exploratory. Nothing in today's findings changes the established CHEK2 risk baseline.
 
-## New Research Publications
+One clinical trial update today: the phase I/Ib trial of olaparib plus the oral DNMT inhibitor ASTX727 in homologous-recombination-repair–mutated solid tumors — which explicitly enrolls patients with germline or somatic CHEK2 mutations — posted an update on ClinicalTrials.gov on 2026-10-15 and is now listed as active, not recruiting. No new publications, preprints, or news items change the established CHEK2 risk baseline.
 
-**26 September 2026 — "Ten-year overall survival in patients with breast cancer and pathogenic/probably pathogenic germ line variants who attend genetic consultation at an oncology center in the city of Medellín" — BMC Cancer (López-Torres et al.)**
-A retrospective study of 259 Colombian women with breast cancer and confirmed germline pathogenic/likely pathogenic variants on multigene panel testing (2018–2024) estimated 10-year overall survival at 75%. BRCA2 (40.9%) and BRCA1 (13.5%) dominated the cohort; patients with TP53 and CHEK2 variants showed higher survival estimates, while BRCA1 and PALB2 carriers fared worse — BRCA1 variants were an independent predictor of mortality (HR 1.55). For CHEK2 carriers this is mildly reassuring but exploratory: the CHEK2 subgroup was small, follow-up was limited (median 45 months), and the authors explicitly caution against over-interpreting the rarer-variant findings. It does not alter the established baseline (~2–2.7x breast cancer OR for truncating variants; 20–30% lifetime risk).
-[https://doi.org/10.1186/s12885-026-16898-z](https://doi.org/10.1186/s12885-026-16898-z)
+## Clinical Trials Updates
 
-*Catch-up note: this paper was published 26 September but had not been captured by earlier runs of this digest (recent runs failed); it is included here as it was not previously reported.*
+- **2026-10-15 — Olaparib and ASTX727 in BRCA1/2- and Homologous Recombination Deficient (HRD)-Mutated Tumors (NCT06177171).** This single-center phase I/Ib trial combines the PARP inhibitor olaparib with ASTX727 (oral decitabine/cedazuridine) in adults with advanced solid tumors carrying germline and/or somatic mutations in BRCA1, BRCA2, PALB2, ATM, or **CHEK2**; a phase Ib expansion cohort specifically includes germline CHEK2 carriers. The registry record was updated on 2026-10-15 with status "active, not recruiting," indicating enrollment is complete and the combination is being evaluated — relevant for CHEK2 carriers because it tests whether adding a DNA-hypomethylating agent can deepen PARP-inhibitor responses in CHEK2-mutated tumors. [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT06177171)
 <!--END_LATEST_REPORT-->
 
 ## Report Archive
