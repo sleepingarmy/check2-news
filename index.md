@@ -4,15 +4,19 @@ title: CHEK2 Daily News
 ---
 
 <!--LATEST_REPORT-->
-# CHEK2 Daily Report — 2026-10-15
+# CHEK2 Daily Report — 2026-10-22
 
 ## TL;DR
 
-One clinical trial update today: the phase I/Ib trial of olaparib plus the oral DNMT inhibitor ASTX727 in homologous-recombination-repair–mutated solid tumors — which explicitly enrolls patients with germline or somatic CHEK2 mutations — posted an update on ClinicalTrials.gov on 2026-10-15 and is now listed as active, not recruiting. No new publications, preprints, or news items change the established CHEK2 risk baseline.
+Two new publications relevant to CHEK2 carriers today (covering the gap since the last report on 2026-10-15): a large patient survey by the advocacy group FORCE, in which CHEK2 was the third most common pathogenic variant among respondents, documents substantial unmet financial and emotional needs around screening and risk-reducing surgery; and a seven-year real-world series from a German hereditary cancer center confirms CHEK2 as the most frequently altered moderate-risk breast/ovarian cancer gene in clinical practice. Neither study changes the established CHEK2 risk baseline (truncating variants ~2–2.7x breast cancer OR; Ile157Thr/Ser428Phe low-penetrance OR ~1.3; ~2x prostate risk; CHEK2 does not cause Li-Fraumeni syndrome).
 
-## Clinical Trials Updates
+## New Research Publications
 
-- **2026-10-15 — Olaparib and ASTX727 in BRCA1/2- and Homologous Recombination Deficient (HRD)-Mutated Tumors (NCT06177171).** This single-center phase I/Ib trial combines the PARP inhibitor olaparib with ASTX727 (oral decitabine/cedazuridine) in adults with advanced solid tumors carrying germline and/or somatic mutations in BRCA1, BRCA2, PALB2, ATM, or **CHEK2**; a phase Ib expansion cohort specifically includes germline CHEK2 carriers. The registry record was updated on 2026-10-15 with status "active, not recruiting," indicating enrollment is complete and the combination is being evaluated — relevant for CHEK2 carriers because it tests whether adding a DNA-hypomethylating agent can deepen PARP-inhibitor responses in CHEK2-mutated tumors. [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT06177171)
+- **2026-10-18 — "Awareness, need and utilization of breast cancer risk management resources in women with hereditary cancer susceptibility."** *Breast Cancer Research and Treatment.* A 38-question online survey by the patient advocacy group FORCE collected responses from 937 women with pathogenic variants in breast cancer susceptibility genes; CHEK2 was the third most common variant (9.2% of respondents, after BRCA2 and BRCA1). Over one-third reported unmet financial needs, ~38% found it emotionally hard to prepare for screening results, and 37% struggled with decisions about risk-reducing mastectomy — evidence that CHEK2 carriers, like other mutation carriers, face real-world gaps between guidelines and usable support. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42894082/) · [DOI](https://doi.org/10.1007/s10549-026-08104-2)
+
+- **2026-10-15 — "Moderate-risk variants in hereditary breast and ovarian cancer: seven-year experience from a specialized center."** *Familial Cancer.* Retrospective review of 3,416 individuals tested at the Erlangen hereditary breast and ovarian cancer center (2018–2024) for moderate-risk genes (ATM, BARD1, CHEK2, RAD51C, RAD51D). CHEK2 was the most frequently altered moderate-risk gene, ahead of ATM, and most affected women were enrolled in intensified breast cancer surveillance, with a small subset carrying more than one pathogenic variant — consistent with CHEK2's position as the dominant moderate-penetrance gene in clinical testing. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42878904/) · [DOI](https://doi.org/10.1007/s10689-026-00609-5)
+
+- **2026-11 (epub) — "Prevalence and spectrum of variants in homologous recombination repair genes in ovarian cancer in Latin America: a systematic review and meta-analysis."** *AJOG Global Reports.* Meta-analysis of 8 studies (442 ovarian cancer patients from Brazil, Argentina, Mexico, Chile, and Colombia) found a pooled 17–20% prevalence of germline homologous-recombination-repair variants; ~96% of carriers had BRCA1/2, with non-BRCA variants in CHEK2, BARD1, and RAD51D accounting for the remaining 4.2%. Note: CHEK2's contribution to ovarian cancer risk remains uncertain — its appearance here reflects panel-testing practice, not a new established association. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42898852/) · [DOI](https://doi.org/10.1016/j.xagr.2026.100693)
 <!--END_LATEST_REPORT-->
 
 ## Report Archive
