@@ -4,17 +4,25 @@ title: CHEK2 Daily News
 ---
 
 <!--LATEST_REPORT-->
-# CHEK2 Daily Report — 2026-10-24
+# CHEK2 Daily Report — 2026-10-27
 
 ## TL;DR
 
-One new publication relevant to CHEK2 carriers today: an 8-year real-world series from the Regensburg center of the German Consortium for Hereditary Breast and Ovarian Cancer (GC-HBOC), describing tumor biology, systemic therapy patterns, and treatment response in 385 high-familial-risk breast cancer patients — including carriers of CHEK2 and other non-BRCA variants. It confirms established practice patterns and does not change the CHEK2 risk baseline.
+A nationwide Spanish study in *Blood* found that donor cell–derived blood cancers after stem cell transplantation are driven mainly by inherited germline predisposition — including one case involving a CHEK2 variant — strengthening the case for germline screening of related transplant donors. No change to the established CHEK2 cancer-risk baseline.
 
 ## New Research Publications
 
-- **2026-10 (indexed) — "Tumor Biology, Genetic Risk, and Systemic Therapy in Familial Breast Cancer: An 8-Year Experience from a German Center for Familial Breast and Ovarian Cancer."** *Breast Care.* Retrospective analysis of 385 breast cancer patients meeting GC-HBOC criteria for elevated familial risk (2012–2020), grouped by genetic status — BRCA1/2 carriers, carriers of variants in other predisposition genes including CHEK2, ATM, PALB2, RAD51C, RAD51D, or BARD1, and test-negative patients. Pathogenic variants were found in 49% of patients (36% in BRCA1/2); BRCA1 carriers were predominantly triple-negative (61%) and had the highest pathological complete response rate to neoadjuvant chemotherapy (35%, rising to 67% in BRCA1-positive TNBC), with platinum use in TNBC reaching 100% by 2020. For CHEK2 carriers, the study confirms that non-BRCA variant carriers are being identified and managed within structured high-risk programs, though it reports no CHEK2-specific risk estimates or treatment outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42910142/) · [DOI](https://doi.org/10.1159/brc/abrag005)
+**2026-10-26 — "Molecular Underpinnings and Prevalence of Donor Cell-Derived Hematologic Neoplasms among Spanish Transplantation Centers" — *Blood* (Gabarros-Subira et al.)**
+Researchers at 24 Spanish transplant centers identified 39 cases of donor cell–derived hematologic neoplasm (DDHN) — new blood cancers arising from transplanted donor stem cells — with a prevalence of 0.28% after allogeneic transplant, markedly higher with related donors (0.41% vs 0.06%). Pathogenic or likely pathogenic germline variants were found in 10 of 33 molecularly characterized cases, involving DDX41 (n=7), CEBPA (n=2), and CHEK2 (n=1) — all after related-donor transplantation. The authors recommend comprehensive germline evaluation before transplant and targeted cascade screening of candidate related donors. For CHEK2 carriers, this is a reminder that germline status matters if a carrier is ever considered as a related stem-cell donor; it does not change established cancer-risk estimates.
+[https://pubmed.ncbi.nlm.nih.gov/42932250/](https://pubmed.ncbi.nlm.nih.gov/42932250/) · DOI: 10.1182/blood.2026035181
 
-Nothing in today's findings changes the established baseline: truncating variants (e.g. c.1100delC) confer ~2–2.7x breast cancer OR (20–30% lifetime risk), Ile157Thr/Ser428Phe are low-penetrance (OR ~1.3), prostate cancer risk is ~2x, and CHEK2 does not cause Li-Fraumeni syndrome.
+## Clinical Trials Updates
+
+**NCT02543905 — The PROFILE Study: Germline Genetic Profiling: Correlation With Targeted Prostate Cancer Screening and Treatment** — record updated 2026-10-27; status: Recruiting (UK, running since 2015). This study profiles germline DNA (including CHEK2 among prostate cancer risk genes) in men at higher risk by ethnicity, family history, or genetic predisposition, to test whether genetic profiling can guide prostate cancer screening. Registry record update only; no results posted.
+[https://clinicaltrials.gov/study/NCT02543905](https://clinicaltrials.gov/study/NCT02543905)
+
+**NCT07403721 — AMG 436 as Monotherapy and Combination Therapy in MSI-H/dMMR Solid Tumors** — record updated 2026-10-20; status: Recruiting. This phase 1 trial of the investigational drug AMG 436 lists tumor phosphorylated checkpoint kinase 2 (pCHK2) as a pharmacodynamic outcome measure. Note: this concerns CHK2 as a drug target/biomarker in tumor tissue, not germline CHEK2 variants — no direct implications for CHEK2 carriers.
+[https://clinicaltrials.gov/study/NCT07403721](https://clinicaltrials.gov/study/NCT07403721)
 <!--END_LATEST_REPORT-->
 
 ## Report Archive
