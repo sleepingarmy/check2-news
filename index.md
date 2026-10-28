@@ -4,25 +4,21 @@ title: CHEK2 Daily News
 ---
 
 <!--LATEST_REPORT-->
-# CHEK2 Daily Report — 2026-10-27
+# CHEK2 Daily Report — 2026-10-28
 
 ## TL;DR
 
-A nationwide Spanish study in *Blood* found that donor cell–derived blood cancers after stem cell transplantation are driven mainly by inherited germline predisposition — including one case involving a CHEK2 variant — strengthening the case for germline screening of related transplant donors. No change to the established CHEK2 cancer-risk baseline.
+A first report of hereditary cancer panel testing from the University Hospital of Split, Croatia found CHEK2 was the third most frequently mutated gene (after BRCA1 and BRCA2) among 297 tested individuals — another population data point consistent with CHEK2's established prevalence. No change to the established CHEK2 cancer-risk baseline.
 
 ## New Research Publications
 
-**2026-10-26 — "Molecular Underpinnings and Prevalence of Donor Cell-Derived Hematologic Neoplasms among Spanish Transplantation Centers" — *Blood* (Gabarros-Subira et al.)**
-Researchers at 24 Spanish transplant centers identified 39 cases of donor cell–derived hematologic neoplasm (DDHN) — new blood cancers arising from transplanted donor stem cells — with a prevalence of 0.28% after allogeneic transplant, markedly higher with related donors (0.41% vs 0.06%). Pathogenic or likely pathogenic germline variants were found in 10 of 33 molecularly characterized cases, involving DDX41 (n=7), CEBPA (n=2), and CHEK2 (n=1) — all after related-donor transplantation. The authors recommend comprehensive germline evaluation before transplant and targeted cascade screening of candidate related donors. For CHEK2 carriers, this is a reminder that germline status matters if a carrier is ever considered as a related stem-cell donor; it does not change established cancer-risk estimates.
-[https://pubmed.ncbi.nlm.nih.gov/42932250/](https://pubmed.ncbi.nlm.nih.gov/42932250/) · DOI: 10.1182/blood.2026035181
+**2026-09-27 — "Hereditary Cancer Gene Panel Testing in a Croatian Cohort: The First Results from the University Hospital of Split" — *Medicina (Kaunas)* (Smoljo et al.)**
+Among 297 individuals meeting NCCN testing criteria who received a 101-gene panel at the University Hospital of Split (May 2025–July 2026), pathogenic/likely pathogenic or risk variants were found in 80 individuals (26.9%), most frequently in BRCA1 (n=14), BRCA2 (n=11), CHEK2 (n=9), and PALB2 (n=7). Breast cancer was the most common diagnosis among tested individuals (43.8%). For CHEK2 carriers, this adds Croatian population data confirming CHEK2 is routinely among the top genes detected on hereditary cancer panels; it does not alter established risk estimates.
+[https://pubmed.ncbi.nlm.nih.gov/42942401/](https://pubmed.ncbi.nlm.nih.gov/42942401/) · DOI: 10.3390/medicina62101870
 
-## Clinical Trials Updates
-
-**NCT02543905 — The PROFILE Study: Germline Genetic Profiling: Correlation With Targeted Prostate Cancer Screening and Treatment** — record updated 2026-10-27; status: Recruiting (UK, running since 2015). This study profiles germline DNA (including CHEK2 among prostate cancer risk genes) in men at higher risk by ethnicity, family history, or genetic predisposition, to test whether genetic profiling can guide prostate cancer screening. Registry record update only; no results posted.
-[https://clinicaltrials.gov/study/NCT02543905](https://clinicaltrials.gov/study/NCT02543905)
-
-**NCT07403721 — AMG 436 as Monotherapy and Combination Therapy in MSI-H/dMMR Solid Tumors** — record updated 2026-10-20; status: Recruiting. This phase 1 trial of the investigational drug AMG 436 lists tumor phosphorylated checkpoint kinase 2 (pCHK2) as a pharmacodynamic outcome measure. Note: this concerns CHK2 as a drug target/biomarker in tumor tissue, not germline CHEK2 variants — no direct implications for CHEK2 carriers.
-[https://clinicaltrials.gov/study/NCT07403721](https://clinicaltrials.gov/study/NCT07403721)
+**2026-10-21 — "Clonal Hematopoiesis Across the Cancer Treatment Continuum: A Scoping Review of Clonal Selection, Evolution, and Clinical Outcomes" — *Cancers (Basel)* (AlShahrani)**
+A PRISMA-ScR scoping review of 34 primary studies mapped how cancer therapy selects for, expands, or induces clonal hematopoiesis — the age-related expansion of blood-cell clones carrying somatic mutations, with CHEK2 among the canonical driver genes discussed. Note: this concerns somatic CHEK2 mutations acquired in blood cells during/after cancer treatment, not inherited germline CHEK2 variants — no direct implications for germline carriers beyond general awareness of CH as a surveillance topic.
+[https://pubmed.ncbi.nlm.nih.gov/42938930/](https://pubmed.ncbi.nlm.nih.gov/42938930/) · DOI: 10.3390/cancers18203398
 <!--END_LATEST_REPORT-->
 
 ## Report Archive
