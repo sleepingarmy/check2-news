@@ -4,21 +4,23 @@ title: CHEK2 Daily News
 ---
 
 <!--LATEST_REPORT-->
-# CHEK2 Daily Report — 2026-11-01
+# CHEK2 Daily Report — 2026-11-03
+
 ## TL;DR
-Two publications surfaced today, neither of which changes the established CHEK2 risk baseline. A large Saudi whole-exome study confirms CHEK2 is among the most variant-rich breast cancer predisposition genes in that population while c.1100delC remains rare outside Northern Europe, and a Spanish hereditary polyposis panel study adds to evidence that CHEK2 variants occasionally appear in colorectal polyposis cohorts.
+
+Two new items today, neither of which changes the established CHEK2 risk baseline. A Canadian study of rapid genetic testing at breast cancer diagnosis (panel included CHEK2) found decision regret is uncommon one year later — useful reassurance for carriers navigating testing at diagnosis — and a JAAD Case Reports case describes the first reported identification of a pathogenic CHEK2 c.1100delC variant following a subungual melanoma diagnosis, adding an anecdotal data point to the still-weak CHEK2–melanoma association.
 
 ## New Research Publications
 
-**2026-10-27 — "Germline variation across breast cancer predisposition genes: whole-exome evidence" — *Scientific Reports*** (published Oct 27; missed by prior runs, not previously reported)
+**2026-11-01 — "Decision regret following rapid genetic testing at the time of breast cancer diagnosis" — *Cancer***
 
-Researchers whole-exome sequenced 11,093 Saudi individuals without a cancer diagnosis and classified protein-altering variants across 20 breast cancer–associated genes. CHEK2 carried the second-highest variant burden (26 variants, behind ATM's 31), with missense variants predominating (13 of 26), and many variants were absent from ClinVar — highlighting gaps in population diversity of variant databases. Notably, the Northern European founder variant c.1100delC was *not* observed at elevated frequency, consistent with its known ethnic specificity. This reinforces, rather than changes, the baseline: CHEK2 risk variants are common in the general population (~1–2%), but the truncating variants that drive the ~2–2.7x breast cancer risk are population-specific, so risk estimates should not be transferred uncritically across ancestries.
-Link: https://www.nature.com/articles/s41598-026-73559-8 (DOI: 10.1038/s41598-026-73559-8)
+Among 871 Canadian women offered rapid multi-gene panel testing (BRCA1/2, CDH1, PALB2, PTEN, STK11, TP53, ATM, and CHEK2) at the time of breast cancer diagnosis, 9.5% carried a pathogenic variant, and only 7.9% reported any decision regret one year later (92.1% reported none). Regret was higher in women from racialized groups (13.4% vs 4.4% in White women) and in those with a positive BRCA1/BRCA2 result; regret was not specifically elevated for CHEK2-positive results. For CHEK2 carriers, this supports that learning one's status at diagnosis is generally well tolerated, while underscoring the value of follow-up counseling for higher-regret groups.
+Link: https://pubmed.ncbi.nlm.nih.gov/42967224/ (PMID: 42967224, DOI: 10.1002/cncr.70663)
 
-**2026-11-01 — "Diagnostic Yield of Expanded Multigene Testing in Hereditary Polyposis Syndromes: Functional Characterization of Clinically Relevant Variants" — *Cancer Genomics & Proteomics***
+**2026-10 — "Subungual melanoma leading to identification of a pathogenic CHEK2 variant" — *JAAD Case Reports*** (case report; published online Oct 2026, not previously reported)
 
-A Spanish group tested 50 patients with suspected hereditary gastrointestinal polyposis using a 101-gene panel, finding pathogenic/likely pathogenic variants in 28%. Beyond the established polyposis genes (APC, MUTYH, SMAD4, PTEN), variants appeared in four broader cancer-predisposition genes — ATM, CDKN2A, **CHEK2**, and FANCM. This is a single-variant observation for CHEK2 in a small polyposis cohort, so it does not establish a new CHEK2–polyposis association, but it adds to the ongoing debate about whether CHEK2 carriers warrant enhanced colorectal surveillance (current evidence for a colorectal link remains weaker than for breast and prostate).
-Link: https://pubmed.ncbi.nlm.nih.gov/42966627/ (PMID: 42966627, DOI: 10.21873/cgp.20619)
+University of Michigan dermatologists report a 68-year-old woman diagnosed with subungual (under-the-nail) melanoma whose family history (sister with metastatic breast cancer at 44) prompted panel testing, which revealed the Northern European founder truncating variant CHEK2 c.1100delC (p.T367Mfs*15) — the first reported case of a pathogenic CHEK2 variant identified after a subungual melanoma diagnosis. This is a single case report and does not establish subungual melanoma as a CHEK2-associated cancer; the broader evidence for any CHEK2–melanoma link remains limited and inconsistent, so this should not change screening practice for carriers. It does illustrate the practical value of family-history-guided genetic evaluation after unusual cancer presentations.
+Link: https://jaadcasereports.org/article/S2352-5126(26)00620-X/pdf
 <!--END_LATEST_REPORT-->
 
 ## Report Archive
